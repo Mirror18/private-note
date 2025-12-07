@@ -1,6 +1,7 @@
 {
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./asset",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showLineNumber": true
 }

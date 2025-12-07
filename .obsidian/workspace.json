@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0721a88d8e6be4",
+        "id": "767c5e051bb89400",
         "type": "tabs",
         "children": [
           {
-            "id": "714122bd587eaeac",
+            "id": "b52081397aca5bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-05.md",
+                "file": "日记/2025-12-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-05"
+              "title": "2025-12-07"
             }
           }
         ]
@@ -191,17 +191,36 @@
             "state": {
               "type": "quiet-outline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "quiet-outline"
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "1ee8ca1980589fb6",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {},
+              "icon": "running-man",
+              "title": "Word Sprint"
+            }
+          },
+          {
+            "id": "695a9ec12040b68b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,10 +243,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "714122bd587eaeac",
+  "active": "b52081397aca5bd7",
   "lastOpenFiles": [
+    "日记/2025-12-06.md",
+    "日记/2025-12-07.md",
+    "日记/2025-12-05.md",
+    "刷题/leetCode热题100.md",
+    "刷题",
+    "y.pub",
+    "y",
     "日记.md",
-    "2025-12-05.md",
     "欢迎.md",
     "代码生成器",
     "博客",
